@@ -4,6 +4,7 @@ Directions:
 
 Our project is a virtual escape room in which the user moves throughout the room using the mouse.  To move to the right drag your mouse to the right side of the screen(JFrame) and an arrow should appear indicating that you can click to move right.  Note if you do not click directly on the arrow it is ok, you will still move right if you click on the right side of the screen.  The same goes for moving left.  If you would like to move left move your mouse to the left of the screen, an arrow should appear, and you can click.
 
+
 If you would like to display or hide hints at any time throughout the program press 'h' on your keyboard.  If there is currently a hint displayed, press h and the hint will go away.  If there is no hint displayed press h and a hint will pop up.
 
 There are a number of hitboxes scattered throughout the room with which a user can interact.  If you see an object that looks suspicious, feel free to click on it.  When you click, a closer image of that object should be brought up.  Now a user will have the option to interact with that object or go back to the screen they were just in.  In order to move back to the screen, a user should move the mouse to the bottom of the screen.  An arrow will appear and clicking will bring a user back to the previous arrow.  If the user is in the intermediate step between the window image and the chess puzzle, the user must click on the chess puzzle in order to go back to the previous area.
@@ -36,7 +37,6 @@ Sources:
 Rotherwas Room(17th Century)
 Mead Art Museum.
 AC 1945.494
-https://pixabay.com/en/conference-room-table-office-768441/
 https://way2java.com/multimedia/drawing-images/
 https://docs.oracle.com/javase/7/docs/api/java/awt/Toolkit.html
 https://docs.oracle.com/javase/tutorial/2d/images/loadimage.html
@@ -52,8 +52,12 @@ https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html
 https://www.pexels.com/photo/laptop-computer-884453/
 https://www.pinterest.com/pin/423338433693867144/?lp=true
 https://www.pexels.com/photo/books-on-bookshelves-1166657/
+
+This is the royalty free, no attribution required image that we used for our arrows.
 https://pixabay.com/en/arrow-left-point-pointer-sharp-40169/
+
 https://docs.oracle.com/javase/7/docs/api/java/awt/event/KeyListener.html
 https://stackoverflow.com/questions/13216148/java-what-throws-an-ioexception
 https://stackoverflow.com/questions/12700520/how-to-get-mouse-pointer-location-relative-to-frame
 https://stackoverflow.com/questions/18356516/how-can-i-get-the-relative-and-absolute-cursor-position
+Also: Labs and Projects in class, cited in the code... Mainly lab 7
